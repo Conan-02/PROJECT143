@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 5px solid blue;
+    border-radius: 15px;
+    color: blue;
+}
+
+.head1 {
+    width: 90%;
+    border: 2px solid blue;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+.head1 h3 {
+    font-size: 40px;
+}
+
+.head1 button {
+    float: right;
+    display: inline;
+    font-size: 35px;
+    border: 2px solid blue;
+    background-color: transparent;
+    border-radius: 15px;
+    margin-top: -70px;
+}
+
+#btnA, #status {
+    width: 90%;
+    border: 2px solid blue;
+    margin: 20px;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: transparent;
+}
+
+#footer {
+    width: 100%;
+    border: 2px solid blue;
+    border-radius: 15px;
+    text-align: left;
+    bottom: 0;
+    position: fixed;
+    font-size: 35px;
+    padding-left: 20px;
+}
